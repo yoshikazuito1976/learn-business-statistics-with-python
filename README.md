@@ -1,12 +1,14 @@
 # Learn Business Statistics with Python
 
+## 日本語
+
 このリポジトリは、ビジネス統計で学ぶ確率・平均・分散・標準偏差・ヒストグラム・中心極限定理などの概念を、Pythonや表計算を使って観察・確認するための補助教材です。
 
 統計の公式を暗記することではなく、身近な現象をデータとして捉え、試行・集計・可視化・説明することを目的とします。
 
-## English
+---
 
-# Learn Business Statistics with Python
+## English
 
 This repository provides supplementary learning materials for business statistics.
 
@@ -14,7 +16,7 @@ The goal of this repository is not only to memorize formulas, but also to observ
 
 In this material, students will learn concepts such as probability, repeated trials, expected value, average, variance, standard deviation, histograms, and the central limit theorem by using Python and spreadsheet tools.
 
-## Purpose of this material
+### Purpose of this material
 
 Business statistics is a tool for understanding uncertainty.
 
@@ -28,7 +30,7 @@ For example:
 These questions are not only mathematical questions.
 They are also important for business decisions, investment, marketing, risk management, and data literacy.
 
-## Learning approach
+### Learning approach
 
 This repository follows this learning flow:
 
@@ -39,7 +41,7 @@ This repository follows this learning flow:
 5. Visualize the result using tables or graphs
 6. Explain the meaning in your own words
 
-## Main idea
+### Main idea
 
 Statistics is not just calculation.
 
@@ -57,15 +59,13 @@ By learning business statistics, students will learn how to look at uncertain si
 
 ## Bahasa Indonesia
 
-# Learn Business Statistics with Python
-
 Repositori ini berisi materi pendukung untuk mempelajari statistik bisnis.
 
 Tujuan repositori ini bukan hanya menghafal rumus, tetapi juga mengamati fenomena di dunia nyata melalui data, probabilitas, dan simulasi sederhana.
 
 Dalam materi ini, siswa akan mempelajari konsep seperti probabilitas, percobaan berulang, nilai harapan, rata-rata, varians, simpangan baku, histogram, dan teorema limit pusat dengan menggunakan Python dan alat spreadsheet.
 
-## Tujuan materi ini
+### Tujuan materi ini
 
 Statistik bisnis adalah alat untuk memahami ketidakpastian.
 
@@ -79,7 +79,7 @@ Contohnya:
 Pertanyaan-pertanyaan ini bukan hanya pertanyaan matematika.
 Pertanyaan tersebut juga penting untuk pengambilan keputusan bisnis, investasi, pemasaran, manajemen risiko, dan literasi data.
 
-## Alur pembelajaran
+### Alur pembelajaran
 
 Repositori ini mengikuti alur pembelajaran berikut:
 
@@ -90,7 +90,7 @@ Repositori ini mengikuti alur pembelajaran berikut:
 5. Memvisualisasikan hasilnya dalam bentuk tabel atau grafik
 6. Menjelaskan maknanya dengan kata-kata sendiri
 
-## Gagasan utama
+### Gagasan utama
 
 Statistik bukan hanya tentang perhitungan.
 
@@ -108,8 +108,6 @@ Dengan mempelajari statistik bisnis, siswa akan belajar melihat situasi yang tid
 
 ## नेपाली
 
-# Learn Business Statistics with Python
-
 यो रिपोजिटरी business statistics सिक्नका लागि सहायक अध्ययन सामग्री हो।
 
 यस रिपोजिटरीको उद्देश्य सूत्रहरू कण्ठ गर्नु मात्र होइन।
@@ -117,7 +115,7 @@ Dengan mempelajari statistik bisnis, siswa akan belajar melihat situasi yang tid
 
 यस सामग्रीमा विद्यार्थीहरूले Python र spreadsheet tools प्रयोग गरेर probability, repeated trials, expected value, average, variance, standard deviation, histogram, र central limit theorem जस्ता अवधारणाहरू सिक्नेछन्।
 
-## यस सामग्रीको उद्देश्य
+### यस सामग्रीको उद्देश्य
 
 Business statistics अनिश्चितता बुझ्नका लागि प्रयोग गरिने उपकरण हो।
 
@@ -131,7 +129,7 @@ Business statistics अनिश्चितता बुझ्नका ला�
 यी प्रश्नहरू गणितका प्रश्न मात्र होइनन्।
 यी business decision, investment, marketing, risk management, र data literacy का लागि पनि महत्त्वपूर्ण छन्।
 
-## सिकाइको प्रवाह
+### सिकाइको प्रवाह
 
 यस रिपोजिटरीमा निम्न सिकाइ प्रवाह प्रयोग गरिन्छ।
 
@@ -142,7 +140,7 @@ Business statistics अनिश्चितता बुझ्नका ला�
 5. नतिजालाई table वा graph मार्फत देखाउने
 6. त्यसको अर्थ आफ्नै शब्दमा व्याख्या गर्ने
 
-## मुख्य विचार
+### मुख्य विचार
 
 Statistics भनेको calculation मात्र होइन।
 
@@ -155,3 +153,14 @@ Statistics ले हामीलाई निम्न कुराहरूक
 * भावना र प्रमाण
 
 Business statistics सिकेर विद्यार्थीहरूले अनिश्चित अवस्थालाई अझ सावधानीपूर्वक हेर्न र data मा आधारित राम्रो निर्णय गर्न सिक्नेछन्।
+
+---
+
+## License / 利用について
+
+この教材の著作権は作成者に帰属します。
+
+学校内の授業・学習支援を目的とした利用は許可します。  
+ただし、無断での再配布、販売、改変物の公開、または第三者への提供は認めません。
+
+利用範囲を超える使用を希望する場合は、作成者に事前に相談してください。
