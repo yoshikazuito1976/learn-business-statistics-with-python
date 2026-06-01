@@ -96,6 +96,24 @@ Python と表計算ツールのどちらも、データを観察するための�
 
 ---
 
+## AlmaLinux での環境構築確認
+
+AlmaLinux を使う場合は、次のコマンドを順番に実行して確認してください。
+
+```bash
+python3 -V
+sudo dnf install python3-pip
+python3 -m pip --version
+python3 -m pip install --user ipykernel
+python3 -m ipykernel install --user --name python3 --display-name "Python 3"
+```
+
+- `python3 -V` で Python 本体のバージョンを確認します。
+- `python3 -m pip --version` で `pip` が使えることを確認します。
+- `ipykernel` をインストールして、Jupyter で `Python 3` カーネルを使える状態にします。
+
+---
+
 ## まとめ
 
 この章では、ビジネス統計を学ぶための環境を確認しました。
