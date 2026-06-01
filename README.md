@@ -45,6 +45,29 @@
 
 ビジネス統計を学ぶことで、不確実な状況をより慎重に見て、データに基づいたより良い意思決定ができるようになります。
 
+### 章構成（再編版）
+
+00〜03 は既存内容を維持し、04 以降を教科書的な流れで再編しています。
+
+1. [00_environment](00_environment/README.md)
+2. [01_probability_and_trials](01_probability_and_trials/README.md)
+3. [02_average_and_expected_value](02_average_and_expected_value/README.md)
+4. [03_variance_and_standard_deviation](03_variance_and_standard_deviation/README.md)
+5. [04_histogram_and_distribution](04_histogram_and_distribution/README.md)
+6. [05_scatter_plot_and_correlation](05_scatter_plot_and_correlation/README.md)
+7. [06_regression_analysis](06_regression_analysis/README.md)
+8. [07_population_and_sample](07_population_and_sample/README.md)
+9. [08_sampling_and_simulation](08_sampling_and_simulation/README.md)
+10. [09_central_limit_theorem](09_central_limit_theorem/README.md)
+11. [10_interval_estimation](10_interval_estimation/README.md)
+12. [11_hypothesis_testing](11_hypothesis_testing/README.md)
+13. [12_t_test](12_t_test/README.md)
+14. [13_chi_square_test](13_chi_square_test/README.md)
+15. [14_other_statistical_tests](14_other_statistical_tests/README.md)
+16. [15_business_decision](15_business_decision/README.md)
+
+注記: 以前の 04〜08 ディレクトリ（`04_histogram` など）は既存ファイル保持のため残しています。
+
 ---
 
 ## English
